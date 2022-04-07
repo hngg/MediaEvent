@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "VID_STREAM.C": "cpp",
+        "VID_STREAM_TEST.C": "cpp",
+        "RTC_SEND.C": "cpp",
+        "NALDECODER.C": "cpp",
+        "UNITTEST.C": "cpp",
+        "PACKETS_LIST.C": "cpp",
+        "RTC_RECV.C": "cpp",
+        "NATIVE_REAL_RTC.C": "cpp",
+        "RTCP.C": "cpp",
+        "JITTER_BUFFER.C": "cpp",
+        "TRANSPORT_UDP.C": "cpp",
+        "DEALRTPUNPACK.C": "cpp",
+        "RTP.C": "cpp",
+        "VID_PORT.C": "cpp",
+        "VID_CODEC.C": "cpp",
+        "H264_PACKETIZER.C": "cpp",
+        "CALLCPLUS.C": "cpp",
+        "LIST.C": "cpp",
+        "video_rtc_api.h": "c"
+    }
+}
